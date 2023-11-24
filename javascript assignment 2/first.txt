@@ -1,0 +1,10 @@
+Javascript used for making dynamic web apps.It is also used as frontend as well as backend language.Javascript is a object oriented language it was created by brendan eich in 1995.
+Initially language called mocha after that it changed to livescript then it converted to Javascript.Basically Javascript is not compiled language its runtime language .For run the javascript we want runtime environment like node js,bun etc....
+
+Role of Javascript In Web Development:-
+1.Works on frontend as well as backend:-Javascript is now popular because of its behavior it will be used for frontend as well as backend side.
+
+2.Application Development:-javascript used for making  game application,mobile Development, desktop Applications etcc..
+
+3.Object oriented:-Its a object oriented language means it support the objects and support many features.
+

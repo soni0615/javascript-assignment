@@ -1,0 +1,13 @@
+Primitive Data Types in javascript:-
+
+1.Boolean:-boolean data type basically returns only the value in true and false.
+
+2.Number:-It just stores the number in integer form.It stores the  value like console.log(variable_name)
+
+3.String:-string is just like combination of characters or alphabets in single(' ') or double quotes(" ") 
+ex:let sum="abc"
+console.log(sum)
+
+4.Null:null is basically a empty value just tells property has no value.
+
+5.Undefined:-Undefined data type is special it says property has been declared but hasn't asisgned a value.
