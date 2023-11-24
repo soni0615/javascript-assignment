@@ -1,0 +1,5 @@
+Role Of Operators in Javascript:-
+
+In Javascript operators plays the foremost role.It is important to calculate like arithmetic operations, for calculating operations so at that point operators are the essential thing in Javascript.Some common operators in javascript are arithmetic operators,comparision Operators,logical operators,assignment operators etc...
+
+Operators are essential in javascript because we can create complex and dynamic sites and we can perform various tasks using javascript operators.

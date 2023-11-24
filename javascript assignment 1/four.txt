@@ -1,0 +1,31 @@
+In javascript operators have associativity and precedence basically it determines the value of operators for which
+operation would be works first.It is helpful for understanding the order between operations.So associativity will be
+works from left to right or right to left
+Associativity for left to right operators:
+1.(++)
+2.(--)
+3.(*)
+4.(/)
+5.(%)
+6.(-)
+7.(-)
+8.(>)
+9.(<) 
+10.(<=)
+11.(>=)
+12.(<=)
+13.(==)
+14.(===) 
+15.(!=) 
+16.(!==)
+17.(&&) 
+18.(||)
+Associativity for right to left operators: 
+1.(? :) 
+2.(,)
+3.(=)
+4.(+=) 
+5.(-=) 
+6.(*=) 
+7.(/=) 8.(%=) 
+Precedence of higher operators are evaluated first always.If we understand the concept of associativity and precedence concept then it will be helpful for better understanding on operators we can predict the code and operations.
